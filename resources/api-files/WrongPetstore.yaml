@@ -8,7 +8,7 @@ info:
   contact:
     email: graphorn@gmail.com
 servers:
-  - url: http://graphorn.swagger.io/v1
+  - url: http://graphorn.swagger.io/
 paths:
   /pets:
     get:
